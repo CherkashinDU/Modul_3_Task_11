@@ -1,0 +1,6 @@
+{
+  "FilePath": "..\\Logs\\Log.txt",
+  "BackupFolderPath": "..\\Backups",
+  "MaxSize": "10"
+
+}
